@@ -1,1 +1,1 @@
-<h1 align='center'> Hi, I'm Mike <small>(<i>@mikeunge</i>)</small></h1>
+<h3 align='center'> Hi, I'm Mike</h3>
